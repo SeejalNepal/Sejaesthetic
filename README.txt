@@ -5,9 +5,7 @@ Sejaesthetic
 AUTHOR:
 Seejal Nepal
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+LinkedIn: https://www.linkedin.com/in/seejal-nepal-1a57981a9/
 
 
 CREDITS:
