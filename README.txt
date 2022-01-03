@@ -3,7 +3,7 @@ TITLE:
 Paper - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+Seejal Nepal
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
